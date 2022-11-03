@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Internet"
+workgroup: "IPv6 Maintenance"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "IPv6 Maintenance"
+  type: "Working Group"
+  mail: "ipv6@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/ipv6/"
+  github: "VMatrix1900/ipcomp-exclude-transport-layer"
+  latest: "https://VMatrix1900.github.io/ipcomp-exclude-transport-layer/draft-ls-6man-ipcomp-exclude-transport-layer.html"
 
 author:
  -
